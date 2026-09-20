@@ -7,7 +7,7 @@ UM_MATINA_LONGITUDE = 125.5968
 AIR_QUALITY_API_URL = "https://air-quality-api.open-meteo.com/v1/air-quality"
 
 CAMPUS_LOCATIONS = [
-    "Bulwagan ng Katilingban (Main Building)",
+    "Main Building",
     "College of Engineering Building",
     "College of Computing Education (CCE) Building",
     "College of Nursing Building",
